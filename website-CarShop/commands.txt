@@ -1,0 +1,7 @@
+
+heroku create 
+git add .
+git  commit -m "first"
+git push heroku master
+
+SSL = socket security layer , https
